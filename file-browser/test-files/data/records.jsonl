@@ -1,0 +1,5 @@
+{"id": 1, "name": "张三", "email": "zhangsan@example. com", "age": 28, "department": "技术部"}
+{"id": 2, "name": "李四", "email": "lisi@example.com", "age": 32, "department": "产品部"}
+{"id": 3, "name": "王五", "email": "wangwu@example.com", "age": 25, "department": "设计部"}
+{"id": 4, "name":  "赵六", "email":  "zhaoliu@example.com", "age": 30, "department": "市场部"}
+{"id": 5, "name":  "钱七", "email":  "qianqi@example.com", "age": 27, "department": "技术部"}

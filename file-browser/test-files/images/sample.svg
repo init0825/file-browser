@@ -1,0 +1,20 @@
+<? xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="200" height="200" fill="#f0f0f0"/>
+  
+  <!-- 文件夹图标 -->
+  <g transform="translate(50, 50)">
+    <!-- 文件夹背面 -->
+    <path d="M0 20 L0 90 L100 90 L100 20 L40 20 L35 10 L0 10 Z" fill="#FFA726"/>
+    <!-- 文件夹正面 -->
+    <path d="M0 30 L0 90 L100 90 L100 30 Z" fill="#FFB74D"/>
+    <!-- 文件夹标签 -->
+    <path d="M0 20 L35 20 L40 30 L0 30 Z" fill="#FF9800"/>
+  </g>
+  
+  <!-- 文字 -->
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-size="14" fill="#666">
+    文件浏览器
+  </text>
+</svg>
